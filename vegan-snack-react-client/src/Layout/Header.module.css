@@ -1,0 +1,26 @@
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.link:active {
+  color: #06d6a0;
+}
+
+.link:hover {
+  color: #98f5e1;
+}
+
+.logo {
+  text-decoration: none;
+  color: white;
+}
+
+.user {
+  text-decoration: none;
+  color: black;
+}
+.menu {
+  text-decoration: none;
+  color: black;
+}
